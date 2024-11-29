@@ -1,6 +1,8 @@
 # Ansible Refactoring & Static Assignments (Imports and Roles)
 This guide walks through refactoring Ansible configurations using imports and roles, as well as setting up Jenkins to manage and save artifacts. Follow the steps below for a seamless setup and execution.
 
+![image](https://github.com/user-attachments/assets/0e18d12a-c856-40c8-a719-f142f8bf78f4)
+
 Connect to your Jenkins-Ansible server terminal by ssh on your terminal
 
 ![(screenshot)](https://github.com/Prince-Tee/Ansible_Refactoring/blob/main/screenshot%20from%20my%20env/ssh%20into%20you%20jenkins%20server.png)
